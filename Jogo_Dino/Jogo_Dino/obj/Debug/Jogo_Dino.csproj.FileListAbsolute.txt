@@ -1,0 +1,15 @@
+E:\Jogo_Dino\Jogo_Dino\obj\Debug\Jogo_Dino.csproj.AssemblyReference.cache
+E:\Jogo_Dino\Jogo_Dino\obj\Debug\Jogo_Dino.csproj.SuggestedBindingRedirects.cache
+E:\Jogo_Dino\Jogo_Dino\obj\Debug\Jogo_Dino.JogoDino.resources
+E:\Jogo_Dino\Jogo_Dino\obj\Debug\Jogo_Dino.PainelGameOver.resources
+E:\Jogo_Dino\Jogo_Dino\obj\Debug\Jogo_Dino.User.resources
+E:\Jogo_Dino\Jogo_Dino\obj\Debug\Jogo_Dino.Properties.Resources.resources
+E:\Jogo_Dino\Jogo_Dino\obj\Debug\Jogo_Dino.csproj.GenerateResource.cache
+E:\Jogo_Dino\Jogo_Dino\obj\Debug\Jogo_Dino.csproj.CoreCompileInputs.cache
+E:\Jogo_Dino\Jogo_Dino\bin\Debug\Jogo_Dino.exe.config
+E:\Jogo_Dino\Jogo_Dino\bin\Debug\Jogo_Dino.exe
+E:\Jogo_Dino\Jogo_Dino\bin\Debug\Jogo_Dino.pdb
+E:\Jogo_Dino\Jogo_Dino\obj\Debug\Jogo_Dino.exe
+E:\Jogo_Dino\Jogo_Dino\obj\Debug\Jogo_Dino.pdb
+E:\Jogo_Dino\Jogo_Dino\obj\Debug\Jogo_Dino.Menu.resources
+E:\Jogo_Dino\Jogo_Dino\obj\Debug\Jogo_Dino.Ranking.resources
